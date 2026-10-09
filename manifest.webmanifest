@@ -1,0 +1,16 @@
+{
+  "name": "Jelly Arcade",
+  "short_name": "Jelly Arcade",
+  "description": "Times-table practice. Everything is saved on this iPad.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#E0D0FD",
+  "theme_color": "#00A9B4",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
